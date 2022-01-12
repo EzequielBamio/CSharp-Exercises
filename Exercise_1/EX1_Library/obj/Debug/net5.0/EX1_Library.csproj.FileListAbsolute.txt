@@ -1,0 +1,12 @@
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\bin\Debug\net5.0\EX1_Library.deps.json
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\bin\Debug\net5.0\EX1_Library.dll
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\bin\Debug\net5.0\ref\EX1_Library.dll
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\bin\Debug\net5.0\EX1_Library.pdb
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\obj\Debug\net5.0\EX1_Library.csproj.AssemblyReference.cache
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\obj\Debug\net5.0\EX1_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\obj\Debug\net5.0\EX1_Library.AssemblyInfoInputs.cache
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\obj\Debug\net5.0\EX1_Library.AssemblyInfo.cs
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\obj\Debug\net5.0\EX1_Library.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\obj\Debug\net5.0\EX1_Library.dll
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\obj\Debug\net5.0\ref\EX1_Library.dll
+C:\Users\ezequ\source\repos\Exercise_1\EX1_Library\obj\Debug\net5.0\EX1_Library.pdb
